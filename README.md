@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rowshon Amin Muna
 #### I am a Front End Developer
-![I am a Front End Developer](/banner.png)
+
 
 
 Skills:  REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap / MUI / Firebase / Wordpress 
@@ -12,5 +12,5 @@ Skills:  REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap / MUI / Firebase / W
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=www.linkedin.com/in/rowshon-amin-muna)  
 
-![Profile views](https://gpvc.arturio.dev/www.linkedin.com/in/rowshon-amin-muna)  
+
 
