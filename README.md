@@ -3,9 +3,9 @@
 
 
 
-Skills:  REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap / MUI / Firebase / Wordpress 
+Skills:  REACT / Javascript / HTML / CSS / Tailwind CSS / Bootstrap / MUI / Firebase / Wordpress 
 
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning Node.js
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/www.linkedin.com/in/rowshon-amin-muna)  
